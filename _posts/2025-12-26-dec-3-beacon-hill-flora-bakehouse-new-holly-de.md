@@ -18,22 +18,22 @@ And Lakewood Playground.
 
 ## Photos
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288831072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288831072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288996072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288996072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289331072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289331072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289161072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289161072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289031072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289031072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289271072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289271072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288861072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872288861072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289411072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289411072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289476072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289476072.jpg)
 
-![Photo](/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289131072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/dec-3-beacon-hill-flora-bakehouse-new-holly-de_10163872289131072.jpg)

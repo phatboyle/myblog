@@ -16,22 +16,22 @@ Overall, rode about 800 miles, which sounds like a lot but it was over many days
 
 ## Photos
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873381072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873381072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873731072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873731072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873811072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873811072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874096072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874096072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874196072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874196072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873881072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873881072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874301072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874026072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561874026072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873391072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873391072.jpg)
 
-![Photo](/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873606072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/barcelona-to-geneva-bike-trip-last-few-days_10163561873606072.jpg)

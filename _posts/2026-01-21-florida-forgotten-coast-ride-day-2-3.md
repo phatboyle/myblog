@@ -13,20 +13,20 @@ Tomorrow I head south east through big bend wildlife refuge.
 
 ## Photos
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094006072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094006072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094111072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094111072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094016072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094016072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094496072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094496072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094621072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094621072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094276072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094276072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094376072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094376072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094741072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094741072.jpg)
 
-![Photo](/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094146072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-forgotten-coast-ride-day-2-3_10163996094146072.jpg)

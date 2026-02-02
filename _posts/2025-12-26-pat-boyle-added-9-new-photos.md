@@ -20,20 +20,20 @@ Mock Creek Ravine on 35th and 97th.  Never noticed it despite driving by thousan
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872197716072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872197716072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872198421072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872198421072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872197941072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872197941072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872198256072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872198256072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872197741072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872197741072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872197966072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872197966072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872198146072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872198146072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872198121072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872198121072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-9-new-photos_10163872198276072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-9-new-photos_10163872198276072.jpg)

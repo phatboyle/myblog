@@ -15,24 +15,24 @@ Tonight I’m in a small French city near the coast called Perpignan.  Fell asle
 
 ## Photos
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535026072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535026072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535841072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535841072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535501072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535501072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535046072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535046072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535806072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535806072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535476072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535476072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535946072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535946072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535256072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535256072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535636072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535636072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535671072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535671072.jpg)
 
-![Photo](/assets/images/spain-france-ride-day-8-300-miles_10163484535281072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-day-8-300-miles_10163484535281072.jpg)

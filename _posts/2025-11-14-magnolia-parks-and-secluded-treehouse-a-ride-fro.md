@@ -19,26 +19,26 @@ You could have a great in-city hike walking along the south side of Magnolia.
 
 ## Photos
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165271072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165271072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165331072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165331072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165961072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165961072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165516072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165516072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165501072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165501072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165731072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165731072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166091072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166091072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166131072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166131072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166291072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166291072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165941072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165941072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166346072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667166346072.jpg)
 
-![Photo](/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165746072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/magnolia-parks-and-secluded-treehouse-a-ride-fro_10163667165746072.jpg)

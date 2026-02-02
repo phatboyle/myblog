@@ -17,22 +17,22 @@ Then two days riding NW to Ales, small city on the way to Valence.
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124636072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124636072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125066072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125066072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124951072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124951072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125281072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125281072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125456072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125456072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124751072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124751072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124851072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507124851072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507126476072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507126476072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507126561072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507126561072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125546072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-10-photos-and-2-videos_10163507125546072.jpg)

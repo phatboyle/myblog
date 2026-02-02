@@ -21,28 +21,28 @@ Great weather. Just been wearing a t shirt and sometimes a Pendleton 24/7.
 
 ## Photos
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469883081072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469883081072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469886356072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469886356072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469886266072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469886266072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469882951072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469882951072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469904976072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469904976072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469905011072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469905011072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469883416072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469883416072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469905171072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469905171072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469886031072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469886031072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469885876072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469885876072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469905221072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469905221072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469883266072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469883266072.jpg)
 
-![Photo](/assets/images/spain-france-ride-first-6-days_10163469905391072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/spain-france-ride-first-6-days_10163469905391072.jpg)

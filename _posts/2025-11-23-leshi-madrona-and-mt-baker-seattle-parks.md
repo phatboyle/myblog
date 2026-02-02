@@ -26,38 +26,38 @@ Today riding home, I took 21st through Capitol Hill, rather than my usual route 
 
 ## Photos
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868596072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868596072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869591072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869591072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869341072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869341072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869206072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869206072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869116072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869116072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870356072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870356072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870641072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870641072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870896072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870896072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870061072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870061072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869621072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869621072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870731072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870731072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869411072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709869411072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709871031072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709871031072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868561072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868561072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868791072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709868791072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870016072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870016072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870326072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870326072.jpg)
 
-![Photo](/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870531072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/leshi-madrona-and-mt-baker-seattle-parks_10163709870531072.jpg)

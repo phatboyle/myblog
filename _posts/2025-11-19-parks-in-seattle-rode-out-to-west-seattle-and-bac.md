@@ -21,22 +21,22 @@ Peanuts and a diet coke at Five guys.
 
 ## Photos
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384591072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384591072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384726072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384726072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384961072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384961072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384906072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384906072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384511072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384511072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384651072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384651072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692385111072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692385111072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384996072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384996072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384806072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692384806072.jpg)
 
-![Photo](/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692385931072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/parks-in-seattle-rode-out-to-west-seattle-and-bac_10163692385931072.jpg)

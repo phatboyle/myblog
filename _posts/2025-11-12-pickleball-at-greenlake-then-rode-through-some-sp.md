@@ -24,24 +24,24 @@ Mayfair park - under construction.
 
 ## Photos
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241426072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241426072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241446072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241446072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241786072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241786072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241601072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241601072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241881072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241881072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241561072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241561072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655242111072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655242111072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241706072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241706072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241926072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655241926072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655242041072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655242041072.jpg)
 
-![Photo](/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655264526072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pickleball-at-greenlake-then-rode-through-some-sp_10163655264526072.jpg)

@@ -21,24 +21,24 @@ Thanks to Karlos @singletracksamurai for such a cool route - I’ll be back to d
 
 ## Photos
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579686072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579686072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579996072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579996072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268580021072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268580021072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579706072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579706072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268580091072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268580091072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268580221072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268580221072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579911072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579911072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579886072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579886072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579766072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579766072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268580141072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268580141072.jpg)
 
-![Photo](/assets/images/florida-divide-last-few-days_10162268579801072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-last-few-days_10162268579801072.jpg)

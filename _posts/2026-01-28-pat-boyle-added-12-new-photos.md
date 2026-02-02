@@ -18,26 +18,26 @@ l
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028661741072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028661741072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028663091072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028663091072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662411072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662411072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028663141072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028663141072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028661816072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028661816072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662856072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662856072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662211072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662211072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662116072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662116072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662681072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662681072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662336072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662336072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028661871072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028661871072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-12-new-photos_10164028662931072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-12-new-photos_10164028662931072.jpg)

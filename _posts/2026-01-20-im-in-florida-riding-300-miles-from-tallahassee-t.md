@@ -13,16 +13,16 @@ Now I’m in Sopchoppy and heading west towards St Marks wildlife refuge.
 
 ## Photos
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813031072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813031072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813221072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813221072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813406072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813406072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813261072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813261072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813426072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813426072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813051072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813051072.jpg)
 
-![Photo](/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813661072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/im-in-florida-riding-300-miles-from-tallahassee-t_10163989813661072.jpg)

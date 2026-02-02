@@ -17,28 +17,28 @@ Tomorrow there is some rain forecasted.  We’ll see how that goes.
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001491072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001491072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002101072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002101072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001546072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001546072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001726072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001726072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002261072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002261072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002481072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002481072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002416072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002416072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002301072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002151072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002151072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001986072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001986072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001786072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001786072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219001911072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219001911072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-13-new-photos_10162219002376072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-13-new-photos_10162219002376072.jpg)

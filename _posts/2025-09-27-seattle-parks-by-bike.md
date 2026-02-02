@@ -20,28 +20,28 @@ Coe Play Park (a playground in an elementary school)
 
 ## Photos
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432689051072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432689051072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432703721072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432703721072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432689451072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432689451072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432703891072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432703891072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432704001072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432704001072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432703746072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432703746072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432703866072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432703866072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432689336072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432689336072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432689301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432689301072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432688501072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432688501072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432688696072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432688696072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432688476072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432688476072.jpg)
 
-![Photo](/assets/images/seattle-parks-by-bike_10163432688631072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-by-bike_10163432688631072.jpg)

@@ -15,32 +15,32 @@ Greenlake Pickleball for a few games, then home.
 
 ## Photos
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669301072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669506072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669506072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670141072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670141072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670001072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670001072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670301072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670066072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670066072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669886072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669886072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669646072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669646072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669621072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669621072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670181072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699670181072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669756072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669756072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669306072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669306072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669866072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669866072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669526072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669526072.jpg)
 
-![Photo](/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669741072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-carkeek-chum-salmon-golden-gardens_10163699669741072.jpg)

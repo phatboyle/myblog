@@ -20,28 +20,28 @@ Funky Ballard neighborhoods and houses that I really haven’t slowed down to se
 
 ## Photos
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720196072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720196072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770688061072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770688061072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770719216072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770719216072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721416072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721416072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721346072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721346072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721716072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721716072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720486072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720486072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722366072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722366072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720346072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720346072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722751072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722751072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720216072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770720216072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721611072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770721611072.jpg)
 
-![Photo](/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722726072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/seattle-parks-project-rode-to-ballard-yesterday-t_10162770722726072.jpg)

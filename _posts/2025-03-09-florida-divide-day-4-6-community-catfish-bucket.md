@@ -21,38 +21,38 @@ There are some sections on this route on faster paved roads to connect to the ne
 
 ## Photos
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366086072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366086072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366446072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366446072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366756072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366756072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366196072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366196072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366231072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366231072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236367086072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236367086072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366116072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366116072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366291072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366291072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366501072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366501072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366391072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366391072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366931072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366931072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366706072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366706072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366821072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366821072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236367141072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236367141072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366986072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366986072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366881072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366881072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366591072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366591072.jpg)
 
-![Photo](/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366651072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/florida-divide-day-4-6-community-catfish-bucket_10162236366651072.jpg)

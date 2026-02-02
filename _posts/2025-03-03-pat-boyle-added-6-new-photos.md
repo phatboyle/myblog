@@ -15,14 +15,14 @@ https://bikepacking.com/routes/edt8/
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215039181072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215039181072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215039546072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215039546072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215041166072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215041166072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215042266072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215042266072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215039446072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215039446072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-6-new-photos_10162215044301072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-6-new-photos_10162215044301072.jpg)

@@ -24,24 +24,24 @@ Seacrest Park/Water Taxi terminal - also has a fishing dock, good for squidding 
 
 ## Photos
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746661072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746661072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747021072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747021072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746856072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746856072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747441072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747441072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747191072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747191072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746821072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746821072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747486072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747486072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747036072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747036072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747206072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747206072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747546072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822747546072.jpg)
 
-![Photo](/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746671072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/yesterday-a-stormy-ride-to-west-seattle-beaches-_10163822746671072.jpg)

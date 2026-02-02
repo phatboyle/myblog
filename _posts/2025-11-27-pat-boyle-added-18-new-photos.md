@@ -22,38 +22,38 @@ West Marginal way is noisy and hectic, but it’s a working area with a train, s
 
 ## Photos
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028156072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028156072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028656072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028656072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728029296072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728029296072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028556072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028556072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028521072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028521072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728029106072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728029106072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728029141072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728029141072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028671072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028671072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028296072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028296072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028816072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028816072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028171072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028171072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028376072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028376072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028841072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028841072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028941072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028941072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028986072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028986072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028411072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028411072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728029266072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728029266072.jpg)
 
-![Photo](/assets/images/pat-boyle-added-18-new-photos_10163728028271072.jpg)
+![Photo]({{ site.baseurl }}/assets/images/pat-boyle-added-18-new-photos_10163728028271072.jpg)
