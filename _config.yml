@@ -10,7 +10,7 @@ theme: minima
 
 # URL settings (update these for your GitHub Pages)
 # For github.io: https://username.github.io/repository-name
-baseurl: "myblog" # the subpath of your site, e.g. /blog
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "phatboyle.github.io" # the base hostname & protocol for your site
 
 # Pagination
