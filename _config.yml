@@ -1,0 +1,50 @@
+# Site settings
+title: My Facebook Archive Blog
+description: A blog created from my Facebook posts
+author: Your Name
+email: patboyle@gmail.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# URL settings (update these for your GitHub Pages)
+# For github.io: https://username.github.io/repository-name
+baseurl: "myblog" # the subpath of your site, e.g. /blog
+url: "phatboyle.github.io" # the base hostname & protocol for your site
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
